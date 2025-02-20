@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+body{
+  background-color: rgb(247,224,203);
+  color:#333;
+  font-family: "メイリエオ","Hiranino kaku gothic pro",sans-serif;
+  margin: 0;
+  padding: o;
+}
+p {
+  font: size 90%;
+}
+h1{
+  font-size:180%;
+}
+h2 {
+  font-size:120%;
+border-bottom: 1px dashed #036;
+border-left: 10px solid #036;
+padding-left: 7px;
+
+}
+footer {
+  text-align: center;
+  border-top:5px solid #036
+}
